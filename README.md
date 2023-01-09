@@ -1,5 +1,6 @@
 # MedMate
-assets/images/logo.jpg
+![logot](assets/images/logo.jpg)
+
 Welcome to MedMate – the ultimate solution for finding the best prices on your medications. Our software makes it easy to compare prices at different pharmacies, predict future price fluctuations, and compare alternative medications, all in one place.
 
 To get started, simply search for the medication you need and you'll see the prices at various locations. You can sort the results by price or distance to find the best deal. You can also use the price prediction feature to see the expected price changes for your medication over the next few weeks.
@@ -30,4 +31,4 @@ We hope you find MedMate useful in finding the best prices on your medications a
 - [Aakash P R](https://github.com/aakash414)
 - [Dhanush P K](https://github.com/dhanush788)
 - [Dheeraj Dileep](https://github.com/i0dheerajdileep)
-- [Hafeefa P C](https://github.com/Yash-Var)
+- [Hafeefa P C](https://github.com/HAFEEFA77)
